@@ -1,0 +1,7 @@
+target/
+*.a
+*.o
+*.elf
+*.exe
+*.lib
+solution
